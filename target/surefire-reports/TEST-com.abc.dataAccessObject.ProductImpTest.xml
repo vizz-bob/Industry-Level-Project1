@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" ?>
+<<<<<<< HEAD
 <testsuite tests="4" failures="0" name="com.abc.dataAccessObject.ProductImpTest" time="0.022" errors="0" skipped="0">
+=======
+<testsuite tests="4" failures="0" name="com.abc.dataAccessObject.ProductImpTest" time="0.03" errors="0" skipped="0">
+>>>>>>> origin/master
   <properties>
     <property name="jansi.mode" value="force"/>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="java.vm.version" value="17.0.13+11-Ubuntu-2ubuntu124.04"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/java-17-openjdk-amd64/lib"/>
+<<<<<<< HEAD
     <property name="maven.multiModuleProjectDirectory" value="/home/ubuntu/Industry_level_project"/>
+=======
+    <property name="maven.multiModuleProjectDirectory" value="/home/ubuntu/Industry-Level-Project1"/>
+>>>>>>> origin/master
     <property name="java.vm.vendor" value="Ubuntu"/>
     <property name="java.vendor.url" value="https://ubuntu.com/"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
@@ -13,7 +21,11 @@
     <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+<<<<<<< HEAD
     <property name="user.dir" value="/home/ubuntu/Industry_level_project"/>
+=======
+    <property name="user.dir" value="/home/ubuntu/Industry-Level-Project1"/>
+>>>>>>> origin/master
     <property name="java.vm.compressedOopsMode" value="32-bit"/>
     <property name="java.runtime.version" value="17.0.13+11-Ubuntu-2ubuntu124.04"/>
     <property name="os.arch" value="amd64"/>
@@ -30,7 +42,11 @@
     <property name="java.class.version" value="61.0"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+<<<<<<< HEAD
     <property name="os.version" value="6.8.0-1016-aws"/>
+=======
+    <property name="os.version" value="6.8.0-1018-aws"/>
+>>>>>>> origin/master
     <property name="library.jansi.path" value="/usr/share/maven/lib/jansi-native"/>
     <property name="user.home" value="/home/ubuntu"/>
     <property name="user.timezone" value="Etc/UTC"/>
@@ -58,8 +74,15 @@
     <property name="sun.cpu.endian" value="little"/>
     <property name="sun.stdout.encoding" value="UTF-8"/>
   </properties>
+<<<<<<< HEAD
   <testcase classname="com.abc.dataAccessObject.ProductImpTest" name="readUserShouldWorkSuccessfully" time="0.022"/>
   <testcase classname="com.abc.dataAccessObject.ProductImpTest" name="createUserShouldWorkSuccessfully" time="0"/>
   <testcase classname="com.abc.dataAccessObject.ProductImpTest" name="readPriceUserShouldWorkSuccessfully" time="0"/>
   <testcase classname="com.abc.dataAccessObject.ProductImpTest" name="readDesciptionUserShouldWorkSuccessfully" time="0"/>
+=======
+  <testcase classname="com.abc.dataAccessObject.ProductImpTest" name="createUserShouldWorkSuccessfully" time="0.024"/>
+  <testcase classname="com.abc.dataAccessObject.ProductImpTest" name="readPriceUserShouldWorkSuccessfully" time="0"/>
+  <testcase classname="com.abc.dataAccessObject.ProductImpTest" name="readDesciptionUserShouldWorkSuccessfully" time="0.006"/>
+  <testcase classname="com.abc.dataAccessObject.ProductImpTest" name="readUserShouldWorkSuccessfully" time="0"/>
+>>>>>>> origin/master
 </testsuite>

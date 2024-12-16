@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 /home/ubuntu/Industry_level_project/src/main/java/com/abc/dataAccessObject/RetailDataImp.java
 /home/ubuntu/Industry_level_project/src/main/java/com/abc/dataAccessObject/RetailAccessObject.java
 /home/ubuntu/Industry_level_project/src/main/java/com/abc/RetailModule.java
+=======
+/home/ubuntu/Industry-Level-Project1/src/main/java/com/abc/RetailModule.java
+/home/ubuntu/Industry-Level-Project1/src/main/java/com/abc/dataAccessObject/RetailAccessObject.java
+/home/ubuntu/Industry-Level-Project1/src/main/java/com/abc/dataAccessObject/RetailDataImp.java
+>>>>>>> origin/master
